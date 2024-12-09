@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that is not vectorized, which leads to errors when an array is inputted. A solution demonstrating how to vectorize the function is provided.
